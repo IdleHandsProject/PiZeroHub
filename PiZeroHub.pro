@@ -1,4 +1,4 @@
-update=11/01/2016 2:26:31 PM
+update=06/02/2016 10:49:31 AM
 version=1
 last_client=kicad
 [general]
@@ -61,3 +61,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=share/kicad/library/usb_hub
+LibName31=ESD_Protection
